@@ -12,7 +12,7 @@ To perform inference
 python3 inference.py
 
 # Output
-![](https://github.com/neuratree/Object_Detection/blob/master/Screenshot%202019-11-06%20at%207.33.58%20AM.png)
+https://github.com/rajveer8999/Object-detection/blob/8792057faa98a7951d646746f6c909a8aec45ad0/Screenshot%202019-11-06%20at%207.33.58%20AM.png
 ![](https://github.com/neuratree/Object_Detection/blob/master/Screenshot%202019-11-06%20at%207.34.40%20AM.png)
 
 # Model Details
